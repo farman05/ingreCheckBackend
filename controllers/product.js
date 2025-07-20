@@ -1,4 +1,4 @@
-const products = require('../data/products.json');
+// const products = require('../data/products.json');
 const {read, create, update, execute} = require('mysql-helper-kit');
 const path = require('path');
 const fs = require('fs');
